@@ -5,6 +5,12 @@
 
 [Demo at gh-pages](https://colspan.github.io/colorization-monochrome-photo-map)
 
+## 着色前(元画像)
+![元画像](before.png)
+
+## 着色結果
+![着色結果](thumbnail.png)
+
 ## License
 
  - アプリケーション : MIT License (C) [Miyoshi](https://github.com/colspan/)
